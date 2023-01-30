@@ -1,1 +1,1 @@
-"# Modern Full Stack Development - M1 Lab1" 
+# Modern Full Stack Development - M1 Lab1
